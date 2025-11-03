@@ -2,7 +2,7 @@
 
 🎓 **Ph.D. Student in Computer Science** @ **Emory University**  
 🎓 **M.Eng. in Electrical and Computer Engineering** @ **University of Waterloo**  
-🎓 **B.Sc. in Mathematics and Applied Mathematics (Honors)** @ **Southern University of Science and Technology (SUSTech)**  
+🎓 **B.Sc. in Mathematics and Applied Mathematics** @ **Southern University of Science and Technology (SUSTech)**  
 
 ---
 
